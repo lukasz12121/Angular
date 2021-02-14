@@ -1,0 +1,21 @@
+{
+  "name": "projekt",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \\\"Error: no tests specified\\\" && exit 1",
+	"start": "http-server -o"  },
+  "keywords": [		"demo"		],
+  "dependencies": {
+    "http-server": "0.12.1",
+    "jquery": "3.4.1",
+    "bootstrap": "4.4.1",
+    "angular": "1.7.9",
+    "angular-route": "1.7.9"  
+  },
+  "author": "202265@edu.p.lodz.pl",
+  "license": "ISC"
+}

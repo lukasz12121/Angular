@@ -1,0 +1,16 @@
+[
+    {
+        "imie": "Name1",
+        "indeks": "202265",
+        "javascript": 10,
+        "jquery": 20,
+        "php": 30
+    },
+    {
+        "imie": "Name2",
+        "indeks": "202260",
+        "javascript": 30,
+        "jquery": 40,
+        "php": 50
+    }
+] 
